@@ -1,5 +1,5 @@
 /*
- *  Eleciones IT5N por Hector Armando Herrera
+ *  Eleciones MG por Hector Armando Herrera/ adapatado por Bas&Teo - Sis
  *
  * Este programa es software libre: usted puede distribuir y/o modificarlo
  * bajo los términos de la GNU General Public License publicada por
