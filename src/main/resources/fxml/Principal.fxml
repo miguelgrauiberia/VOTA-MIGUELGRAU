@@ -21,7 +21,7 @@
                <children>
                   <HBox alignment="CENTER" layoutX="187.0" layoutY="8.0" prefHeight="54.0" prefWidth="574.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                      <children>
-                        <Label fx:id="lblCentro" text="instituto" textAlignment="CENTER">
+                        <Label fx:id="lblCentro" text="INSTITUCIÓN EDUCATIVA" textAlignment="CENTER">
                            <font>
                               <Font size="18.0" />
                            </font>
